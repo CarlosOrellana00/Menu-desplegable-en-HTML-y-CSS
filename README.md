@@ -24,6 +24,7 @@ puede copiarse directamente desde git a traves de comando o descargarse en un ar
 de manera local en una computadora.
 
 ## ¿Cómo se nos presenta?
+ la vista se nos presenta como una simple vista web, con un menu en su parte supreior.
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
@@ -31,6 +32,7 @@ de manera local en una computadora.
   </a>
 </div>
 
+los elementos del menu se reparcaran con un recuadro mostrandonos cual estamos seleccionando
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
@@ -38,6 +40,8 @@ de manera local en una computadora.
   </a>
 </div>
 
+los elementos "Sobre Nosotros" y "Servicios" cuentan con mas categorias ocultas que se nos revelaran al pasar el puntero sobre ellos,
+en el caso de "Sobre Nosotros", nos revelaran 3 elementos 
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
@@ -45,6 +49,7 @@ de manera local en una computadora.
   </a>
 </div>
 
+al pasar el puntero sobre sus opciones, el color de los textos de estos cambiaran a verde.
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
