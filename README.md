@@ -57,6 +57,8 @@ al pasar el puntero sobre sus opciones, el color de los textos de estos cambiara
   </a>
 </div>
 
+En el caso de la opción "Servicios", nos permitira ver que tiene 2 submenus, "Marketing" y "App Mobil". los cuales, en el caso de Marketng, si vamos hasta esa opción
+nos dejara ver que tiene 2 opciones mas
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
@@ -64,6 +66,7 @@ al pasar el puntero sobre sus opciones, el color de los textos de estos cambiara
   </a>
 </div>
 
+De igual Manera con App Mobil, nos permitira ver que hay 5 opciones mas en este submenu.
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Menu-desplegable-en-HTML-y-CSS/" rel="noopener">
